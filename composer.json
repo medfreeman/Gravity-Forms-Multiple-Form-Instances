@@ -1,0 +1,26 @@
+{
+	"name": "tyxla/gravity-forms-multiple-form-instances",
+	"description": "Allows multiple instances of the same form to be run on a single page when using AJAX.",
+	"version": "1.1.1",
+	"type": "wordpress-plugin",
+	"keywords": ["gravity", "form", "multiple", "gravity forms"],
+	"homepage": "https://github.com/tyxla/Gravity-Forms-Multiple-Form-Instances",
+	"license": "GPL-2.0+",
+	"authors": [
+		{
+			"name": "Marin Atanasov",
+			"homepage": "http://marinatanasov.com/",
+			"role": "Developer"
+		}
+	],
+	"repositories": [
+		{
+			"type": "composer",
+			"url": "https://wpackagist.org"
+		}
+	],
+	"minimum-stability": "dev",
+	"require": {
+		"php": ">=5.2"
+	}
+}
